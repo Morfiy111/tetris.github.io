@@ -1,0 +1,85 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    color: #777;
+    font-size: 16px;
+    line-height: 1.62;
+}
+a, button {
+    transition: all .3s linear;
+}
+a:hover {
+    color: #f08a14;
+    text-decoration: none;
+}
+.logo-tetr {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+.logo-tetr h1{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    font-size: 26px;
+    margin: 0;
+}
+.logo-tetr img {
+    width: 74px;
+    filter: hue-rotate(156deg);
+}
+.main-block-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.order-text img {
+    width: 74px;
+}
+.order-text {
+    padding: 50px;
+    display: flex;
+    align-items: center;
+}
+.order-text span {
+    padding: 30px;
+}
+.contact-row-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.contact-row-text img {
+    width: 111px;
+    margin-bottom: 20px;
+    filter: hue-rotate(216deg);
+}
+.contact-row-slogan {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.page-footer {
+    text-align: center;
+}
+.page-footer img {
+    width: 320px;
+}
+.contact-row-slogan a {
+    margin: 5px 0;
+}
+.contact-row-slogan span {
+    margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+    .contact-row-slogan a {
+        font-size: 12px;
+    }
+    .page-footer img {
+        width: 100%;
+    }
+    .logo-tetr, .order-text {
+        padding: 15px;
+    }
+}
