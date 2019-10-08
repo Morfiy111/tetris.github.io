@@ -1,6 +1,6 @@
 body {
     font-family: 'Press Start 2P', cursive;
-    color: #777;
+    color: #2c2c2c;
     font-size: 16px;
     line-height: 1.62;
 }
@@ -262,4 +262,30 @@ a:hover {
 .main-banner-button button:hover span::before
 {
     opacity: 0;
+}
+.page-content-main .container {
+    background-color: #fff;
+}
+h1, h2, h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.container p {
+    font-size: 14px;
+}
+.service-item-img img {
+    width: 100%;
+}
+.service-item {
+    width: 32%;
+}
+.service-item-text {
+    font-size: 14px;
+}
+.service-row-block {
+    display: flex;
+    justify-content: space-between;
+}
+.service-item-img {
+    margin-bottom: 20px;
 }
