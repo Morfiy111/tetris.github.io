@@ -21,3 +21,5 @@ $('.play').on('click',function(){
 $('.stop').on('click',function(){
     owl.trigger('autoplay.stop.owl')
 })
+
+

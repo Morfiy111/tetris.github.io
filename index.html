@@ -8,6 +8,7 @@
     <title>tetris studio</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 
@@ -19,34 +20,52 @@
     <![endif]-->
 </head>
 <body>
-<div class="main-block-page">
-    <div class="logo-tetr">
-        <h1>tetris<br>
-        studio</h1>
-        <img src="images/tetr.png" alt="">
+<header class="header-block-page">
+    <div class="container">
+        <div class="header-row-flex">
+            <div class="header-logo">
+                <img src="images/logo.png" alt="Tetris studio">
+            </div>
+            <div class="contact-links-header">
+                <div class="header-contact-block">
+                    <a href="tel:+79045206877">+7 (951) 084-56-10</a>
+                    <a href="mailto:mail@mail.ru">mail@mail.ru</a>
+                </div>
+                <a href="#" title="Давайте дружить"><i class="fa fa-vk" aria-hidden="true"></i></a>
+                <a class="link_head-contacts" href="#ModalCall" title="Оставить заявку" data-toggle="modal"><i class="fa fa-envelope"></i></a>
+            </div>
+        </div>
     </div>
-    <div class="order-text">
-        <img src="images/detail.png" alt="">
-        <span>Сайт в<br>разработке</span>
+</header>
+
+<div class="main-page-banner">
+    <img src="images/banner_main.jpg" alt="tetris studio">
+    <div class="main-banner-button">
+        <button type="button" href="#ModalCall" data-toggle="modal"><span>Разработка сайтов, продвижение и поддержка</span></button>
     </div>
 </div>
-<div class="contact-row-text">
-    <img src="images/detail2.png" alt="">
-    <div class="contact-row-slogan">
-        Скоро всё будет :-)
-    </div>
+<div class="container">
+    <nav class="navbar navbar-default navbar-header-auto">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-main" aria-expanded="false">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-main">
+            <ul class="nav navbar-nav">
+                <li><a href="#tetris">Тетрис</a></li>
+                <li><a href="#service">Мы предлагаем</a></li>
+                <li><a href="#portfolio">Портфолио</a></li>
+                <li><a href="#contact">Наши контакты</a></li>
+            </ul>
+        </div>
+    </nav>
 </div>
-<div class="contact-row-text">
-    <img src="images/detail3.png" alt="">
-    <div class="contact-row-slogan">
-        <span>Звоните/пишите</span>
-        <a href="tel:+79510845610">+7 (951) 084-56-10</a>
-        <a href="mailto:pyatnarorschacha@gmail.com">pyatnarorschacha@gmail.com</a>
-    </div>
+<div class="page-content-main">
+
 </div>
-<footer class="page-footer">
-    <img src="images/logotip.png" alt="">
-</footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/main.js"></script>
