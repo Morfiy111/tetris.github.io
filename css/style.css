@@ -271,13 +271,13 @@ h1, h2, h3 {
     margin-bottom: 30px;
 }
 .container p {
-    font-size: 14px;
+    font-size: 12px;
 }
 .service-item-img img {
     width: 100%;
 }
 .service-item {
-    width: 32%;
+    width: 48%;
 }
 .service-item-text {
     font-size: 14px;
@@ -288,4 +288,12 @@ h1, h2, h3 {
 }
 .service-item-img {
     margin-bottom: 20px;
+}
+.service-item-text p {
+    display: flex;
+}
+.service-item-text p i {
+    margin-right: 10px;
+    color: #ff8800;
+    font-size: 20px;
 }
