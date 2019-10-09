@@ -7,6 +7,9 @@ body {
 a, button {
     transition: all .3s linear;
 }
+a:focus {
+    text-decoration: none;
+}
 .header-row-flex i {
     transition: all .3s linear;
 }
