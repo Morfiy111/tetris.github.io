@@ -32,16 +32,35 @@
                     <a href="mailto:mail@mail.ru">mail@mail.ru</a>
                 </div>
                 <a href="#" title="Давайте дружить"><i class="fa fa-vk" aria-hidden="true"></i></a>
-                <a class="link_head-contacts" href="#ModalCall" title="Оставить заявку" data-toggle="modal"><i class="fa fa-envelope"></i></a>
+                <a class="link_head-contacts" href="#"  data-target="#modal-main" data-toggle="modal" title="Оставить заявку"><i class="fa fa-envelope"></i></a>
             </div>
         </div>
     </div>
 </header>
-
+<div class="modal fade" id="modal-main" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Закрыть">
+                <span aria-hidden="true">×</span>
+            </button>
+            <div class="modal-body">
+                <div class="owl-feedback-form">
+                    <img src="images/tetr.png" alt="">
+                    <h3>Напишите нам!</h3>
+                    <p>Мы готовы ответить на любые вопросы! Просто напишите нам и мы обязательно сработаемся! =)</p>
+                    <input type="text" placeholder="Ваше имя">
+                    <input type="text" placeholder="Телефон">
+                    <input type="text" placeholder="email">
+                    <button type="button"><span>Отправить заявку</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="main-page-banner">
     <img src="images/banner_main.jpg" alt="tetris studio">
     <div class="main-banner-button">
-        <button type="button" href="#ModalCall" data-toggle="modal"><span>Разработка сайтов, продвижение и поддержка</span></button>
+        <button type="button" data-target="#modal-main" data-toggle="modal"><span>Разработка сайтов, продвижение и поддержка</span></button>
     </div>
 </div>
 <div class="container">
@@ -160,7 +179,7 @@
                                     <input type="text" placeholder="Ваше имя">
                                     <input type="text" placeholder="Телефон">
                                     <input type="text" placeholder="email">
-                                    <button type="button" href="#ModalCall" data-toggle="modal"><span>Отправить заявку</span></button>
+                                    <button type="button"><span>Отправить заявку</span></button>
                                 </div>
                             </div>
                         </div>
@@ -191,7 +210,7 @@
                                     <input type="text" placeholder="Ваше имя">
                                     <input type="text" placeholder="Телефон">
                                     <input type="text" placeholder="email">
-                                    <button type="button" href="#ModalCall" data-toggle="modal"><span>Отправить заявку</span></button>
+                                    <button type="button"><span>Отправить заявку</span></button>
                                 </div>
                             </div>
                         </div>
@@ -222,7 +241,7 @@
                                     <input type="text" placeholder="Ваше имя">
                                     <input type="text" placeholder="Телефон">
                                     <input type="text" placeholder="email">
-                                    <button type="button" href="#ModalCall" data-toggle="modal"><span>Отправить заявку</span></button>
+                                    <button type="button"><span>Отправить заявку</span></button>
                                 </div>
                             </div>
                         </div>
@@ -253,7 +272,7 @@
                                     <input type="text" placeholder="Ваше имя">
                                     <input type="text" placeholder="Телефон">
                                     <input type="text" placeholder="email">
-                                    <button type="button" href="#ModalCall" data-toggle="modal"><span>Отправить заявку</span></button>
+                                    <button type="button"><span>Отправить заявку</span></button>
                                 </div>
                             </div>
                         </div>
@@ -267,7 +286,19 @@
                 <a href="#" data-target="#modal-lending" data-toggle="modal">от 40 000 <i class="fa fa-rub" aria-hidden="true"></i></a>
             </div>
         </div>
-        <h2 id="contact">Контакты</h2>
+        <h2 id="contact">Оставить заявку</h2>
+        <div class="owl-feedback-form form-page-bottom">
+            <button type="button" data-target="#modal-main" data-toggle="modal"><span>Отправить заявку</span></button>
+            <p>Пишите/звоните нам!</p>
+            <a href="mailto:support@support.ru">
+                <i class="fa fa-envelope"></i>
+                <span>support@support.ru</span>
+            </a>
+            <a href="tel:+79510845610">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+                <span>+7 (951) 084-56-10</span>
+            </a>
+        </div>
     </div>
 
     <div class="footer-block">

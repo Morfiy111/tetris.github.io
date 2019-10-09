@@ -617,3 +617,13 @@ button.close {
 .price-block-row a:hover {
     color: #ff8800;
 }
+.form-page-bottom {
+    margin-bottom: 60px;
+}
+.form-page-bottom a {
+    display: block;
+    color: #2c2c2c;
+}
+.form-page-bottom a:hover {
+    color: #ff8800;
+}
