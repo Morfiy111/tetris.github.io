@@ -519,3 +519,10 @@ figure.effect-ruby:hover p {
     color: #ff8800;
     text-decoration: none;
 }
+.price-block-row {
+    display: flex;
+}
+.garant-service {
+    display: flex;
+    justify-content: center;
+}
