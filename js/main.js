@@ -29,3 +29,9 @@ $(document).ready(function(){
         $('body,html').animate({scrollTop: top}, 1500);
     });
 });
+
+$(document).ready(function () {
+    $(".navbar-toggle").on("click", function () {
+        $(this).toggleClass("active");
+    });
+});
