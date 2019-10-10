@@ -6,7 +6,7 @@ $(document).ready(function(){
             $('#button-up').fadeOut();
         }
     });
-    $('#button-up').click(function () {
+    $('#button-up, .footer-logo img').click(function () {
         $('body,html').animate({
             scrollTop: 0
         }, 500);

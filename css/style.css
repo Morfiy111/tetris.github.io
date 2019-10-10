@@ -632,6 +632,9 @@ button.close {
 .footer-address-item i {
     font-size: 22px;
 }
+.form-page-bottom a {
+    margin-bottom: 10px;
+}
 @media(max-width: 1199px) {
     .footer-logo img {
         width: 210px;
@@ -798,5 +801,8 @@ button.close {
     .owl-feedback-form button {
         margin: 1em 0;
         width: 100%;
+    }
+    .form-page-bottom a{
+        font-size: 14px;
     }
 }
