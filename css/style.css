@@ -619,6 +619,13 @@ button.close {
     width: 49%;
     margin-bottom: 10px;
 }
+.advantages-item i {
+    color: #ff8800;
+    font-size: 28px;
+}
+.advantages-text {
+    margin-bottom: 40px;
+}
 @media(max-width: 1199px) {
     .footer-logo img {
         width: 210px;
