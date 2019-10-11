@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f7dbac-1160-4f64-85c2-9e71f1c70f74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="105" column="214" selection-start-line="105" selection-start-column="214" selection-end-line="105" selection-end-column="214" />
+            <state relative-caret-position="150">
+              <caret line="100" column="302" selection-start-line="100" selection-start-column="302" selection-end-line="100" selection-end-column="302" />
             </state>
           </provider>
         </entry>
@@ -47,10 +47,10 @@
       <find>modal</find>
       <find>аква</find>
       <find>компания &quot;</find>
-      <find>portfolio-block-item</find>
       <find>интернет-м</find>
       <find>товаров и</find>
       <find>доволь</find>
+      <find>portfolio-block-item</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -61,8 +61,8 @@
       <list>
         <option value="$PROJECT_DIR$/tetris.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -141,12 +141,12 @@
       <workItem from="1570686374100" duration="6734000" />
       <workItem from="1570704457057" duration="3462000" />
       <workItem from="1570709206909" duration="1840000" />
-      <workItem from="1570772469006" duration="8069000" />
+      <workItem from="1570772469006" duration="9046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63213000" />
+    <option name="totallyTimeSpent" value="64190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="121" y="137" width="1371" height="917" extended-state="0" />
@@ -185,17 +185,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="105" column="214" selection-start-line="105" selection-start-column="214" selection-end-line="105" selection-end-column="214" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="805" column="23" selection-start-line="805" selection-start-column="23" selection-end-line="805" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="100" column="302" selection-start-line="100" selection-start-column="302" selection-end-line="100" selection-end-column="302" />
         </state>
       </provider>
     </entry>
