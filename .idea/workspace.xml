@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f7dbac-1160-4f64-85c2-9e71f1c70f74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="605" column="17" lean-forward="true" selection-start-line="605" selection-start-column="17" selection-end-line="605" selection-end-column="17" />
+            <state relative-caret-position="184">
+              <caret line="607" column="21" lean-forward="true" selection-start-line="607" selection-start-column="21" selection-end-line="607" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -41,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="339" column="64" selection-start-line="339" selection-start-column="52" selection-end-line="339" selection-end-column="64" />
+            <state relative-caret-position="375">
+              <caret line="41" column="118" selection-start-line="41" selection-start-column="118" selection-end-line="41" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -71,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="156" />
     <option name="y" value="97" />
     <option name="width" value="1371" />
@@ -112,6 +105,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../world-of-trees" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,12 +139,12 @@
       <workItem from="1570686374100" duration="6734000" />
       <workItem from="1570704457057" duration="3462000" />
       <workItem from="1570709206909" duration="1840000" />
-      <workItem from="1570772469006" duration="3281000" />
+      <workItem from="1570772469006" duration="4682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58425000" />
+    <option name="totallyTimeSpent" value="59826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="156" y="97" width="1371" height="917" extended-state="0" />
@@ -191,15 +185,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="339" column="64" selection-start-line="339" selection-start-column="52" selection-end-line="339" selection-end-column="64" />
+        <state relative-caret-position="375">
+          <caret line="41" column="118" selection-start-line="41" selection-start-column="118" selection-end-line="41" selection-end-column="118" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="605" column="17" lean-forward="true" selection-start-line="605" selection-start-column="17" selection-end-line="605" selection-end-column="17" />
+        <state relative-caret-position="184">
+          <caret line="607" column="21" lean-forward="true" selection-start-line="607" selection-start-column="21" selection-end-line="607" selection-end-column="21" />
         </state>
       </provider>
     </entry>

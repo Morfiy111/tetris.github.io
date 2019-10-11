@@ -40,8 +40,7 @@ a:hover {
 }
 .contact-links-header a i {
     color: #2c2c2c;
-    font-size: 38px;
-    margin-left: 20px;
+    font-size: 32px;
 }
 .contact-links-header a i:hover {
     color: #ff8800;
@@ -605,6 +604,20 @@ button.close {
 }
 .social-block i {
     margin-right: 15px;
+}
+.form-page-bottom i {
+    font-size: 24px;
+}
+.header-social-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100px;
+    margin-left: 20px;
+}
+.header-social-block a {
+    width: 49%;
+    margin-bottom: 10px;
 }
 @media(max-width: 1199px) {
     .footer-logo img {
