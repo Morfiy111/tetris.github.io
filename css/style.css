@@ -802,4 +802,7 @@ button.close {
     .form-page-bottom a{
         font-size: 14px;
     }
+    h2 {
+        font-size: 24px;
+    }
 }
